@@ -1,2 +1,2 @@
-# Introdu-o-JS
+# Aula_JS
 só o básico do js
