@@ -9,13 +9,13 @@ function redirecionar(){
 function trocar(elemento){ 
    //document.getElementById("mousemove"). innerHTML = "Obrigado por passar el mausito" 
    //elemento.innerHTML = "Obrigado " 
-   //}
+}
    //    alert("Trocar texto") } function voltar(elemento){ //document.getElementById("mousemove"). innerHTML = "Passa o mouse aqui" elemento.innerHTML = "Passe o mouse" } 
 function load(){
-    alert("Pagina carregada") 
+//    alert("Pagina carregada") 
 }
 function funcChange(elemento) {
-    console.log(elemento.value) 
+//    console.log(elemento.value) 
 } 
    //var nome = "Lukinhas"; //var idade = "29"; 
    //var idade2 = "10"; 
